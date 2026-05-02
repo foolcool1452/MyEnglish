@@ -1,0 +1,534 @@
+[
+  {
+    "word": "apple",
+    "phonetic_us": "/'aepəl/",
+    "phonetic_uk": "/'aepəl/",
+    "frequency": 9600,
+    "difficulty": "Primary / CET4",
+    "definitions": [
+      {
+        "pos": "n.",
+        "chinese": "苹果",
+        "english": "a round fruit with red, green, or yellow skin"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She eats an apple every morning.",
+        "zh": "她每天早上吃一个苹果。"
+      }
+    ],
+    "forms": {
+      "复数": "apples"
+    },
+    "relations": {
+      "synonym": ["fruit"]
+    }
+  },
+  {
+    "word": "one",
+    "phonetic_us": "/wʌn/",
+    "phonetic_uk": "/wʌn/",
+    "frequency": 10000,
+    "difficulty": "Primary",
+    "definitions": [
+      {
+        "pos": "num.",
+        "chinese": "一；一个",
+        "english": "the number 1"
+      },
+      {
+        "pos": "pron.",
+        "chinese": "一个人；某人；一个事物",
+        "english": "a person or thing that has already been mentioned"
+      }
+    ],
+    "examples": [
+      {
+        "en": "I have one question.",
+        "zh": "我有一个问题。"
+      }
+    ],
+    "relations": {
+      "synonym": ["single"],
+      "derived": ["once"]
+    }
+  },
+  {
+    "word": "he",
+    "phonetic_us": "/hi/",
+    "phonetic_uk": "/hiː/",
+    "frequency": 10000,
+    "difficulty": "Primary",
+    "definitions": [
+      {
+        "pos": "pron.",
+        "chinese": "他",
+        "english": "used to refer to a male person or animal"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He is learning English.",
+        "zh": "他正在学习英语。"
+      }
+    ],
+    "relations": {
+      "antonym": ["she"]
+    }
+  },
+  {
+    "word": "abandon",
+    "phonetic_us": "/e'baendən/",
+    "phonetic_uk": "/e'baendən/",
+    "frequency": 7400,
+    "difficulty": "CET4 / IELTS",
+    "definitions": [
+      {
+        "pos": "v.",
+        "chinese": "放弃；抛弃；离弃",
+        "english": "to leave someone or something permanently; to stop doing something"
+      },
+      {
+        "pos": "n.",
+        "chinese": "放任；纵情",
+        "english": "a complete lack of restraint"
+      }
+    ],
+    "examples": [
+      {
+        "en": "They had to abandon the plan because of the storm.",
+        "zh": "由于暴风雨，他们不得不放弃这个计划。"
+      }
+    ],
+    "forms": {
+      "过去式": "abandoned",
+      "过去分词": "abandoned",
+      "现在分词": "abandoning",
+      "第三人称单数": "abandons"
+    },
+    "relations": {
+      "synonym": ["quit", "desert", "give up"],
+      "antonym": ["keep", "continue"]
+    }
+  },
+  {
+    "word": "ability",
+    "phonetic_us": "/ə'bɪləti/",
+    "phonetic_uk": "/ə'bɪləti/",
+    "frequency": 9800,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "n.",
+        "chinese": "能力；才能；本领",
+        "english": "the power or skill to do something"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Reading every day can improve your language ability.",
+        "zh": "每天阅读可以提升你的语言能力。"
+      }
+    ],
+    "forms": {
+      "复数": "abilities"
+    },
+    "relations": {
+      "synonym": ["skill", "capacity", "talent"],
+      "antonym": ["inability"]
+    }
+  },
+  {
+    "word": "affect",
+    "phonetic_us": "/ə'fekt/",
+    "phonetic_uk": "/ə'fekt/",
+    "frequency": 9200,
+    "difficulty": "CET4 / TOEFL",
+    "definitions": [
+      {
+        "pos": "v.",
+        "chinese": "影响；使感动；感染",
+        "english": "to influence someone or something"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Sleep can affect your memory and attention.",
+        "zh": "睡眠会影响你的记忆力和注意力。"
+      }
+    ],
+    "forms": {
+      "过去式": "affected",
+      "过去分词": "affected",
+      "现在分词": "affecting",
+      "第三人称单数": "affects"
+    },
+    "relations": {
+      "synonym": ["influence", "impact"],
+      "derived": ["effect", "effective"]
+    }
+  },
+  {
+    "word": "approach",
+    "phonetic_us": "/ə'proʊtʃ/",
+    "phonetic_uk": "/ə'prəʊtʃ/",
+    "frequency": 9500,
+    "difficulty": "CET4 / IELTS",
+    "definitions": [
+      {
+        "pos": "v.",
+        "chinese": "接近；靠近；处理",
+        "english": "to move nearer to something; to deal with a task or problem"
+      },
+      {
+        "pos": "n.",
+        "chinese": "方法；途径；接近",
+        "english": "a way of doing or thinking about something"
+      }
+    ],
+    "examples": [
+      {
+        "en": "This approach makes vocabulary learning more systematic.",
+        "zh": "这种方法让词汇学习更系统。"
+      }
+    ],
+    "forms": {
+      "过去式": "approached",
+      "现在分词": "approaching",
+      "复数": "approaches"
+    },
+    "relations": {
+      "synonym": ["method", "way", "near"],
+      "antonym": ["leave"]
+    }
+  },
+  {
+    "word": "benefit",
+    "phonetic_us": "/'benɪfɪt/",
+    "phonetic_uk": "/'benɪfɪt/",
+    "frequency": 9400,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "n.",
+        "chinese": "好处；利益；福利",
+        "english": "an advantage or helpful result"
+      },
+      {
+        "pos": "v.",
+        "chinese": "有益于；受益",
+        "english": "to help someone or to be helped by something"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Regular review brings clear benefits to memory.",
+        "zh": "定期复习会给记忆带来明显好处。"
+      }
+    ],
+    "forms": {
+      "过去式": "benefited",
+      "现在分词": "benefiting",
+      "复数": "benefits"
+    },
+    "relations": {
+      "synonym": ["advantage", "gain"],
+      "antonym": ["harm", "loss"]
+    }
+  },
+  {
+    "word": "challenge",
+    "phonetic_us": "/'tʃaelɪndʒ/",
+    "phonetic_uk": "/'tʃaelɪndʒ/",
+    "frequency": 9300,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "n.",
+        "chinese": "挑战；难题",
+        "english": "something difficult that tests your ability"
+      },
+      {
+        "pos": "v.",
+        "chinese": "向……挑战；质疑",
+        "english": "to question whether something is right or true"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Building an offline dictionary is a useful engineering challenge.",
+        "zh": "构建离线词典是一个有价值的工程挑战。"
+      }
+    ],
+    "forms": {
+      "过去式": "challenged",
+      "现在分词": "challenging",
+      "复数": "challenges"
+    },
+    "relations": {
+      "synonym": ["test", "difficulty"],
+      "derived": ["challenging"]
+    }
+  },
+  {
+    "word": "define",
+    "phonetic_us": "/dɪ'faɪn/",
+    "phonetic_uk": "/dɪ'faɪn/",
+    "frequency": 8700,
+    "difficulty": "CET4 / TOEFL",
+    "definitions": [
+      {
+        "pos": "v.",
+        "chinese": "定义；解释；限定",
+        "english": "to explain the meaning of a word or idea"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A dictionary should define words clearly.",
+        "zh": "词典应该清晰地解释单词。"
+      }
+    ],
+    "forms": {
+      "过去式": "defined",
+      "现在分词": "defining",
+      "第三人称单数": "defines"
+    },
+    "relations": {
+      "derived": ["definition", "definite"]
+    }
+  },
+  {
+    "word": "evidence",
+    "phonetic_us": "/'evɪdəns/",
+    "phonetic_uk": "/'evɪdəns/",
+    "frequency": 8900,
+    "difficulty": "CET6 / IELTS",
+    "definitions": [
+      {
+        "pos": "n.",
+        "chinese": "证据；根据；迹象",
+        "english": "facts or signs that show something is true"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The data provides evidence for the new search design.",
+        "zh": "这些数据为新的搜索设计提供了证据。"
+      }
+    ],
+    "forms": {
+      "复数": "evidences"
+    },
+    "relations": {
+      "synonym": ["proof", "support"],
+      "derived": ["evident"]
+    }
+  },
+  {
+    "word": "fluent",
+    "phonetic_us": "/'fluːənt/",
+    "phonetic_uk": "/'fluːənt/",
+    "frequency": 7200,
+    "difficulty": "CET4 / IELTS",
+    "definitions": [
+      {
+        "pos": "adj.",
+        "chinese": "流利的；流畅的",
+        "english": "able to speak or write a language smoothly and easily"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She became fluent in English after years of practice.",
+        "zh": "经过多年练习，她的英语变得很流利。"
+      }
+    ],
+    "relations": {
+      "synonym": ["smooth", "natural"],
+      "derived": ["fluency", "fluently"]
+    }
+  },
+  {
+    "word": "important",
+    "phonetic_us": "/ɪm'pɔːrtnt/",
+    "phonetic_uk": "/ɪm'pɔːtnt/",
+    "frequency": 10000,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "adj.",
+        "chinese": "重要的；有重大影响的",
+        "english": "having great value, meaning, or influence"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Local data is important for an offline dictionary.",
+        "zh": "本地数据对离线词典很重要。"
+      }
+    ],
+    "relations": {
+      "synonym": ["significant", "major", "essential"],
+      "antonym": ["unimportant"]
+    }
+  },
+  {
+    "word": "influence",
+    "phonetic_us": "/'ɪnfluəns/",
+    "phonetic_uk": "/'ɪnfluəns/",
+    "frequency": 9400,
+    "difficulty": "CET4 / IELTS",
+    "definitions": [
+      {
+        "pos": "n.",
+        "chinese": "影响；作用",
+        "english": "the power to affect how someone or something develops"
+      },
+      {
+        "pos": "v.",
+        "chinese": "影响；左右",
+        "english": "to affect the way someone thinks or behaves"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Good examples can influence how learners understand a word.",
+        "zh": "好的例句会影响学习者理解单词的方式。"
+      }
+    ],
+    "forms": {
+      "过去式": "influenced",
+      "现在分词": "influencing",
+      "复数": "influences"
+    },
+    "relations": {
+      "synonym": ["affect", "impact"],
+      "derived": ["influential"]
+    }
+  },
+  {
+    "word": "local",
+    "phonetic_us": "/'loʊkl/",
+    "phonetic_uk": "/'ləʊkl/",
+    "frequency": 9100,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "adj.",
+        "chinese": "本地的；当地的；局部的",
+        "english": "relating to a particular place or area"
+      },
+      {
+        "pos": "n.",
+        "chinese": "当地人；本地服务",
+        "english": "a person from a particular area"
+      }
+    ],
+    "examples": [
+      {
+        "en": "All dictionary data is stored in a local database.",
+        "zh": "所有词典数据都保存在本地数据库中。"
+      }
+    ],
+    "relations": {
+      "synonym": ["native", "regional"],
+      "antonym": ["remote", "global"]
+    }
+  },
+  {
+    "word": "memory",
+    "phonetic_us": "/'meməri/",
+    "phonetic_uk": "/'meməri/",
+    "frequency": 9000,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "n.",
+        "chinese": "记忆；记忆力；回忆",
+        "english": "the ability to remember information or experiences"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Spaced repetition is useful for long-term memory.",
+        "zh": "间隔重复对长期记忆很有用。"
+      }
+    ],
+    "forms": {
+      "复数": "memories"
+    },
+    "relations": {
+      "synonym": ["remembrance", "recall"],
+      "derived": ["memorize"]
+    }
+  },
+  {
+    "word": "review",
+    "phonetic_us": "/rɪ'vjuː/",
+    "phonetic_uk": "/rɪ'vjuː/",
+    "frequency": 8800,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "v.",
+        "chinese": "复习；回顾；评论",
+        "english": "to look again at something in order to learn or check it"
+      },
+      {
+        "pos": "n.",
+        "chinese": "复习；评论；审查",
+        "english": "a careful look at something again"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Review difficult words before they fade from memory.",
+        "zh": "在难词淡出记忆前复习它们。"
+      }
+    ],
+    "forms": {
+      "过去式": "reviewed",
+      "现在分词": "reviewing",
+      "复数": "reviews"
+    },
+    "relations": {
+      "synonym": ["revise", "check"],
+      "derived": ["reviewer"]
+    }
+  },
+  {
+    "word": "search",
+    "phonetic_us": "/sɜːrtʃ/",
+    "phonetic_uk": "/sɜːtʃ/",
+    "frequency": 8900,
+    "difficulty": "CET4",
+    "definitions": [
+      {
+        "pos": "v.",
+        "chinese": "搜索；查找；搜寻",
+        "english": "to try to find something"
+      },
+      {
+        "pos": "n.",
+        "chinese": "搜索；查找",
+        "english": "an attempt to find something"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Fast search is the heart of a dictionary app.",
+        "zh": "快速搜索是词典应用的核心。"
+      }
+    ],
+    "forms": {
+      "过去式": "searched",
+      "现在分词": "searching",
+      "复数": "searches"
+    },
+    "relations": {
+      "synonym": ["find", "look up"]
+    }
+  }
+]

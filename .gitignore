@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+.idea/
+build/
+local.properties
+*.hprof
+/data/
+*.png
+*.iml
+app/build/
+captures/
+*.apk
+*.aab
+app/src/main/assets/myenglish_dictionary.db
